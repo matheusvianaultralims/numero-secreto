@@ -135,6 +135,6 @@ button:disabled {
     }
 
     .container__informacoes {
-        padding: 1rem
+        padding: 16px;
     }
 }
